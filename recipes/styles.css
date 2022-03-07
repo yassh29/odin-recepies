@@ -1,0 +1,32 @@
+div {
+	color: darkred;
+	background-color: azure;
+	border: #555;
+}
+
+p {
+	border: 3px solid #555;
+	width: 35%;
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.text-ingridents {
+	padding-left: 5em;
+	border: 3px solid sienna;
+}
+
+.text-steps {
+	margin-top: 10px;
+	padding-left: 5em;
+	border: 3px solid #555;
+}
+
+.img-container {
+	padding: auto;
+	border: 3px solid #555;
+	width: 20%;
+	margin-left: 38em;
+}
